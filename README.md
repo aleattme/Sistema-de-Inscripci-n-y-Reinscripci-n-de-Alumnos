@@ -3,7 +3,7 @@
 ## Integrantes
 
 * Alejandro Attme
-* Andres Carisimo
+* Leonardo Andres Carisimo
 
 
 **Versión:** 1.0
